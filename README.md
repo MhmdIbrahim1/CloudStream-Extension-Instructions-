@@ -23,16 +23,6 @@
 
 [down] **Arabic:** https://raw.githubusercontent.com/redtrillix/cloudstream-extensions-arabic/builds/repo.json
 
-[down] **English:** https://raw.githubusercontent.com/redtrillix/cloudstream-extensions/builds/repo.json
-
-[down] **Multiligual:** https://raw.githubusercontent.com/redtrillix/cloudstream-multiligual/builds/repo.json
-
-[down] **Hexated:** https://raw.githubusercontent.com/redtrillix/cloudstream-extensions-hexated/builds/repo.json
-
-[down] **Darkdemon:** https://raw.githubusercontent.com/redtrillix/cloudstream-darkdemon/builds/repo.json
-
-[down] **Likdev:** https://raw.githubusercontent.com/redtrillix/cloudstream-likdev/builds/repo.json
-
 [up] **English:** https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/eng.json
 
 [up] **Multi:** https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json
@@ -42,8 +32,6 @@
 [up] **Storm:** https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/storm.json 
 
 [up] **Kronch:** https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/kronch.json
-
-[down] **DSH:** https://gitlab.com/dontseehere/cs3-repos/-/raw/main/repo.json 
 
 [up] **Arab:** https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/repo.json
 
