@@ -1,46 +1,44 @@
 # CloudStream-Extension-Instructions- 
-**__How to add CloudStream Extensions__**
+Repo Shortcodes
+(Latest Prerelease (Red Cloudstream Logo App) Only:
+- Kronch - Kronch
+- Multi - Multi
+- English - EngRepo
+- Hexated Repo - n7IQBDM
+- Arabic Repo - r7IQ1yt
+- Horis - l7IQ7DJ
+- DSH - M7IWqme
+- Stormunblessed providers repository - l7IWex2
+- Eddy's Repo - w7IWtCZ
+- Darkdemon Repo - N7IWTb3
+- LikDev - Z7IWUXT
+- CakesTwix Repo - f7IWSq9
+- NSFW Repo - nsfwrepo
 
-1. Go to CloudStream's settings
+How to add repos using these codes:
+1. Go to Settings ---> Extensions ---> Add repository
+2. Type the code to the repo that you want to add into the URL section
+3. Press the Add repository button
+4. Enjoy
 
-2. Go to Extensions.
+Alternative Links:
+- Kronch https://cutt.ly/Kronch
+- Multi https://cutt.ly/Multi
+- English https://cutt.ly/EngRepo
+- Hexated Repo https://cutt.ly/n7IQBDM
+- Arabic Repo https://cutt.ly/r7IQ1yt
+- Horis https://cutt.ly/l7IQ7DJ
+- DSH https://cutt.ly/M7IWqme
+- Stormunblessed providers repository https://cutt.ly/l7IWex2
+- Eddy's Repo https://cutt.ly/w7IWtCZ
+- Darkdemon Repo https://cutt.ly/N7IWTb3
+- LikDev https://cutt.ly/Z7IWUXT
+- CakesTwix Repo https://cutt.ly/f7IWSq9
+- NSFW Repo https://cutt.ly/nsfwrepo
 
-3. Add your favoured language by clicking "Add repository".
-
-4. Put the url(s) below into the "Repository URL" section.
-
--------------------------------------------------------------------
-
--------------------------------------------------------------------
-
--------------------------------------------------------------------
-
-**[DOWN] MEANS NOT WORKING**
-
-**[UP] MEANS WORKING**
-
-**CONTACT ME IF THEY DO/DONT WORK, OR IF YOU HAVE MORE LINKS**
-
-[down] **Arabic:** https://raw.githubusercontent.com/redtrillix/cloudstream-extensions-arabic/builds/repo.json
-
-[up] **English:** https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/eng.json
-
-[up] **Multi:** https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json
-
-[up] **Hexated:** https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/hexa.json
-
-[up] **Storm:** https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/storm.json 
-
-[up] **Kronch:** https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/kronch.json
-
-[up] **Arab:** https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/repo.json
-
-[up] **Storm:** https://pastebin.com/raw/7YRxz84P
-
-[up] **Kronch:** https://pastebin.com/raw/4d6S0gVU
-
-[up] **Hexated:** https://pastebin.com/raw/mjDBFX3R
-
-[up] **English:** https://pastebin.com/raw/tX6F1aKt
-
-source: <https://gist.github.com/redtrillix/17a1d8eda270b6db831b85a860c0fcd0>
+How to add repos using these Links:
+1. Copy the link of the extension that you would like to add
+2. Go to Settings ---> Extensions ---> Add repository
+3. Paste the link that you copied in Step 1, into the URL section
+4. Press the Add repository button
+5. Enjoy
